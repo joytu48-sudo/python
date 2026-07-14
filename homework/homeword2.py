@@ -1,0 +1,5 @@
+first persons birthday = input("enter birth-date:")
+second persons birthday = input("enter birth-date:")
+third persons birthday = input("enter birth-date:")
+fourth persons birthday = input("enter birth-date:")
+fifth persons birthday = input("enter birth-date:")
